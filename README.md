@@ -10,4 +10,4 @@ Skills
 Projects
 Recommendations
 
-# Please refer 'RequirementInstructions.pdf' file for complete requirement to build the portfolio.
+<h6> Note: Please refer <b>'RequirementInstructions.pdf'</b> file for complete requirement to build the portfolio. </h6>
